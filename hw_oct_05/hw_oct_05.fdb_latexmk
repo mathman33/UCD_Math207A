@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1443675073 "hw_oct_05.tex" "hw_oct_05.pdf" "hw_oct_05" 1443675081
+["pdflatex"] 1443822430 "hw_oct_05.tex" "hw_oct_05.pdf" "hw_oct_05" 1443822440
   "/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty" 1303254447 8237 52810bdb4db2270e717422560a104aea ""
@@ -189,8 +189,10 @@
   "/usr/local/texlive/2014/texmf-dist/tex/latex/tools/verbatim.sty" 1399675188 7052 bd460af66db50ed38511e63136966a44 ""
   "/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty" 1169481954 55224 a43bab84e0ac5e6efcaf9a98bde73a94 ""
-  "figures/1_b_1.png" 1443671129 284595 5b53e26d49816c1f2fa5c82a95c3632a ""
-  "figures/1_b_2.png" 1443671129 474203 ccff1dfd3744fc1c5655349b99a878a6 ""
+  "figures/1_b_1_1.png" 1443671129 284595 5b53e26d49816c1f2fa5c82a95c3632a ""
+  "figures/1_b_1_2.png" 1443822350 296597 ceb9a000e2d66a956ba6cfd63d0c095e ""
+  "figures/1_b_2_1.png" 1443671129 474203 ccff1dfd3744fc1c5655349b99a878a6 ""
+  "figures/1_b_2_2.png" 1443822351 405073 aefcff49d5d92fd3158b1926d6f73679 ""
   "figures/2_b_decay_1.png" 1443673474 338957 b9cdf7e540221061f9403e4478da0344 ""
   "figures/2_b_decay_2.png" 1443673475 490846 e50a47d00a02b3941503486f726a0942 ""
   "figures/2_b_oscillation_1.png" 1443673874 389806 87a969357e2a03123d8ff01c6154ed2a ""
@@ -203,11 +205,11 @@
   "figures/4_b.jpg" 1443663431 1581668 b3042111bfcca865e3041e6cb08af0e0 ""
   "figures/4_c.jpg" 1443663428 1506656 3a9ef0d05f52dc761a997ca38f74db9c ""
   "figures/4_d.jpg" 1443663434 1550168 fbcf47627cb801b8011f62371779fc46 ""
-  "hw_oct_05.aux" 1443675081 1228 0b530e932454b002051b03c6f6c4ac7c ""
-  "hw_oct_05.out" 1443675074 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "hw_oct_05.tex" 1443675063 15911 521198263aeeeed7051ad2a491b5b7a7 ""
+  "hw_oct_05.aux" 1443822440 1229 aaa29f0f3a599986a1f0ceb977fc13da ""
+  "hw_oct_05.out" 1443822432 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "hw_oct_05.tex" 1443822421 16019 56dcfb93caceb4b57da4c5f65f045ba7 ""
   (generated)
-  "hw_oct_05.aux"
-  "hw_oct_05.out"
   "hw_oct_05.pdf"
+  "hw_oct_05.out"
   "hw_oct_05.log"
+  "hw_oct_05.aux"

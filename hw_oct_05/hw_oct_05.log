@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  30 SEP 2015 21:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  2 OCT 2015 14:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2077,133 +2077,146 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--70
 [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<figures/1_b_1.png, id=56, 578.16pt x 433.62pt>
-File: figures/1_b_1.png Graphic file (type png)
- <use figures/1_b_1.png>
-Package pdftex.def Info: figures/1_b_1.png used on input line 100.
+<figures/1_b_1_1.png, id=56, 578.16pt x 433.62pt>
+File: figures/1_b_1_1.png Graphic file (type png)
+ <use figures/1_b_1_1.png>
+Package pdftex.def Info: figures/1_b_1_1.png used on input line 100.
 (pdftex.def)             Requested size: 401.50146pt x 301.12352pt.
 
-<figures/1_b_2.png, id=58, 578.16pt x 433.62pt>
-File: figures/1_b_2.png Graphic file (type png)
- <use figures/1_b_2.png>
-Package pdftex.def Info: figures/1_b_2.png used on input line 101.
+<figures/1_b_2_1.png, id=58, 578.16pt x 433.62pt>
+File: figures/1_b_2_1.png Graphic file (type png)
+ <use figures/1_b_2_1.png>
+Package pdftex.def Info: figures/1_b_2_1.png used on input line 101.
 (pdftex.def)             Requested size: 401.50146pt x 301.12352pt.
 
-[2 <./figures/1_b_1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
+<figures/1_b_1_2.png, id=59, 578.16pt x 433.62pt>
+File: figures/1_b_1_2.png Graphic file (type png)
+ <use figures/1_b_1_2.png>
+Package pdftex.def Info: figures/1_b_1_2.png used on input line 102.
+(pdftex.def)             Requested size: 401.50146pt x 301.12352pt.
+
+<figures/1_b_2_2.png, id=60, 578.16pt x 433.62pt>
+File: figures/1_b_2_2.png Graphic file (type png)
+ <use figures/1_b_2_2.png>
+Package pdftex.def Info: figures/1_b_2_2.png used on input line 103.
+(pdftex.def)             Requested size: 401.50146pt x 301.12352pt.
+
+[2 <./figures/1_b_1_1.png>] [3 <./figures/1_b_2_1.png> <./figures/1_b_1_2.png>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
 
-[3 <./figures/1_b_2.png>]
-<figures/2_b_decay_1.png, id=77, 578.16pt x 433.62pt>
+[4 <./figures/1_b_2_2.png>]
+<figures/2_b_decay_1.png, id=85, 578.16pt x 433.62pt>
 File: figures/2_b_decay_1.png Graphic file (type png)
 
 <use figures/2_b_decay_1.png>
-Package pdftex.def Info: figures/2_b_decay_1.png used on input line 179.
+Package pdftex.def Info: figures/2_b_decay_1.png used on input line 181.
 (pdftex.def)             Requested size: 401.50146pt x 301.12352pt.
 
-<figures/2_b_decay_2.png, id=78, 578.16pt x 433.62pt>
+<figures/2_b_decay_2.png, id=86, 578.16pt x 433.62pt>
 File: figures/2_b_decay_2.png Graphic file (type png)
 
 <use figures/2_b_decay_2.png>
-Package pdftex.def Info: figures/2_b_decay_2.png used on input line 180.
+Package pdftex.def Info: figures/2_b_decay_2.png used on input line 182.
 (pdftex.def)             Requested size: 401.50146pt x 301.12352pt.
 
-<figures/2_b_oscillation_1.png, id=79, 578.16pt x 433.62pt>
+<figures/2_b_oscillation_1.png, id=87, 578.16pt x 433.62pt>
 File: figures/2_b_oscillation_1.png Graphic file (type png)
 
 <use figures/2_b_oscillation_1.png>
-Package pdftex.def Info: figures/2_b_oscillation_1.png used on input line 181.
+Package pdftex.def Info: figures/2_b_oscillation_1.png used on input line 183.
 (pdftex.def)             Requested size: 401.50146pt x 301.12352pt.
 
-<figures/2_b_oscillation_2.png, id=80, 578.16pt x 433.62pt>
+<figures/2_b_oscillation_2.png, id=88, 578.16pt x 433.62pt>
 File: figures/2_b_oscillation_2.png Graphic file (type png)
 
 <use figures/2_b_oscillation_2.png>
-Package pdftex.def Info: figures/2_b_oscillation_2.png used on input line 182.
+Package pdftex.def Info: figures/2_b_oscillation_2.png used on input line 184.
 (pdftex.def)             Requested size: 401.50146pt x 301.12352pt.
- [4] [5 <./figures/2_b_decay_1.png> <./figures/2_b_decay_2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 186--187
+ [5] [6 <./figures/2_b_decay_1.png> <./figures/2_b_decay_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
 
  []
 
-[6 <./figures/2_b_oscillation_1.png> <./figures/2_b_oscillation_2.png>]
-<figures/3_a.jpg, id=103, 3276.24pt x 2457.18pt>
+[7 <./figures/2_b_oscillation_1.png> <./figures/2_b_oscillation_2.png>]
+<figures/3_a.jpg, id=112, 3276.24pt x 2457.18pt>
 File: figures/3_a.jpg Graphic file (type jpg)
  <use figures/3_a.jpg>
-Package pdftex.def Info: figures/3_a.jpg used on input line 202.
+Package pdftex.def Info: figures/3_a.jpg used on input line 204.
 (pdftex.def)             Requested size: 401.50146pt x 301.11029pt.
 
-<figures/3_b.jpg, id=104, 3276.24pt x 2457.18pt>
+<figures/3_b.jpg, id=113, 3276.24pt x 2457.18pt>
 File: figures/3_b.jpg Graphic file (type jpg)
  <use figures/3_b.jpg>
-Package pdftex.def Info: figures/3_b.jpg used on input line 209.
+Package pdftex.def Info: figures/3_b.jpg used on input line 211.
 (pdftex.def)             Requested size: 401.50146pt x 301.11029pt.
- [7 <./figures/3_a.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 213--214
+ [8 <./figures/3_a.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
 
  []
 
-[8 <./figures/3_b.jpg>] <figures/3_d_1.png, id=120, 578.16pt x 433.62pt>
+[9 <./figures/3_b.jpg>] <figures/3_d_1.png, id=128, 578.16pt x 433.62pt>
 File: figures/3_d_1.png Graphic file (type png)
 
 <use figures/3_d_1.png>
-Package pdftex.def Info: figures/3_d_1.png used on input line 249.
+Package pdftex.def Info: figures/3_d_1.png used on input line 251.
 (pdftex.def)             Requested size: 401.50146pt x 301.12352pt.
- <figures/3_d_2.png, id=121, 578.16pt x 433.62pt>
+ <figures/3_d_2.png, id=129, 578.16pt x 433.62pt>
 File: figures/3_d_2.png Graphic file (type png)
 
 <use figures/3_d_2.png>
-Package pdftex.def Info: figures/3_d_2.png used on input line 250.
+Package pdftex.def Info: figures/3_d_2.png used on input line 252.
 (pdftex.def)             Requested size: 401.50146pt x 301.12352pt.
- [9 <./figures/3_d_1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
+ [10 <./figures/3_d_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
 
  []
 
-[10 <./figures/3_d_2.png>] <figures/4_a.jpg, id=136, 3276.24pt x 2457.18pt>
+[11 <./figures/3_d_2.png>] <figures/4_a.jpg, id=144, 3276.24pt x 2457.18pt>
 File: figures/4_a.jpg Graphic file (type jpg)
 
 <use figures/4_a.jpg>
-Package pdftex.def Info: figures/4_a.jpg used on input line 318.
+Package pdftex.def Info: figures/4_a.jpg used on input line 320.
 (pdftex.def)             Requested size: 401.50146pt x 301.11029pt.
- <figures/4_b.jpg, id=137, 3276.24pt x 2457.18pt>
+ <figures/4_b.jpg, id=145, 3276.24pt x 2457.18pt>
 File: figures/4_b.jpg Graphic file (type jpg)
 
 <use figures/4_b.jpg>
-Package pdftex.def Info: figures/4_b.jpg used on input line 325.
+Package pdftex.def Info: figures/4_b.jpg used on input line 327.
 (pdftex.def)             Requested size: 401.50146pt x 301.11029pt.
- [11 <./figures/4_a.jpg>]
-<figures/4_c.jpg, id=144, 3276.24pt x 2457.18pt>
+ [12 <./figures/4_a.jpg>]
+<figures/4_c.jpg, id=152, 3276.24pt x 2457.18pt>
 File: figures/4_c.jpg Graphic file (type jpg)
  <use figures/4_c.jpg>
-Package pdftex.def Info: figures/4_c.jpg used on input line 332.
+Package pdftex.def Info: figures/4_c.jpg used on input line 334.
 (pdftex.def)             Requested size: 401.50146pt x 301.11029pt.
- [12 <./figures/4_b.jpg>] <figures/4_d.jpg, id=150, 3276.24pt x 2457.18pt>
+ [13 <./figures/4_b.jpg>] <figures/4_d.jpg, id=159, 3276.24pt x 2457.18pt>
 File: figures/4_d.jpg Graphic file (type jpg)
 
 <use figures/4_d.jpg>
-Package pdftex.def Info: figures/4_d.jpg used on input line 339.
+Package pdftex.def Info: figures/4_d.jpg used on input line 341.
 (pdftex.def)             Requested size: 401.50146pt x 301.11029pt.
- [13 <./figures/4_c.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 343--344
+ [14 <./figures/4_c.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 345--346
 
  []
 
-[14 <./figures/4_d.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 347.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 347.
+[15 <./figures/4_d.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 349.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 349.
  (./hw_oct_05.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 347.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 347.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 349.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 349.
 Package rerunfilecheck Info: File `hw_oct_05.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 35096 strings out of 493117
- 822449 string characters out of 6135433
+ 35107 strings out of 493117
+ 822688 string characters out of 6135433
  1033622 words of memory out of 5000000
- 37950 multiletter control sequences out of 15000+600000
+ 37958 multiletter control sequences out of 15000+600000
  13702 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,19n,83p,10416b,715s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2219,10 +2232,10 @@ texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/te
 xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texl
 ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texli
 ve/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on hw_oct_05.pdf (14 pages, 13032738 bytes).
+Output written on hw_oct_05.pdf (15 pages, 13693421 bytes).
 PDF statistics:
- 214 PDF objects out of 1000 (max. 8388607)
- 144 compressed objects within 2 object streams
- 44 named destinations out of 1000 (max. 500000)
- 191 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 222 PDF objects out of 1000 (max. 8388607)
+ 147 compressed objects within 2 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
 
