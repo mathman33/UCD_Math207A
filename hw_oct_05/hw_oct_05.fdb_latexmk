@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1443822430 "hw_oct_05.tex" "hw_oct_05.pdf" "hw_oct_05" 1443822440
+["pdflatex"] 1444059714 "hw_oct_05.tex" "hw_oct_05.pdf" "hw_oct_05" 1444059724
   "/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty" 1303254447 8237 52810bdb4db2270e717422560a104aea ""
@@ -197,7 +197,7 @@
   "figures/2_b_decay_2.png" 1443673475 490846 e50a47d00a02b3941503486f726a0942 ""
   "figures/2_b_oscillation_1.png" 1443673874 389806 87a969357e2a03123d8ff01c6154ed2a ""
   "figures/2_b_oscillation_2.png" 1443673875 875313 fe9842ea84d7396045c3b2e8d008e247 ""
-  "figures/3_a.jpg" 1443663642 1518639 12bbccbdbcd1d42bbc98bca8989ce409 ""
+  "figures/3_a.jpg" 1444059659 1302742 37a70347965f71f3e8cba6c3937ec7e1 ""
   "figures/3_b.jpg" 1443663633 1544262 361f99f21775c7de5bf306c27c3a88fe ""
   "figures/3_d_1.png" 1443675009 282409 b4003f1ef56da994126c748695f73865 ""
   "figures/3_d_2.png" 1443675010 380091 6e9eb2f1f8f9ae40b008ffcd45f113dd ""
@@ -205,11 +205,11 @@
   "figures/4_b.jpg" 1443663431 1581668 b3042111bfcca865e3041e6cb08af0e0 ""
   "figures/4_c.jpg" 1443663428 1506656 3a9ef0d05f52dc761a997ca38f74db9c ""
   "figures/4_d.jpg" 1443663434 1550168 fbcf47627cb801b8011f62371779fc46 ""
-  "hw_oct_05.aux" 1443822440 1229 aaa29f0f3a599986a1f0ceb977fc13da ""
-  "hw_oct_05.out" 1443822432 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "hw_oct_05.aux" 1444059724 1229 aaa29f0f3a599986a1f0ceb977fc13da ""
+  "hw_oct_05.out" 1444059716 0 d41d8cd98f00b204e9800998ecf8427e ""
   "hw_oct_05.tex" 1443822421 16019 56dcfb93caceb4b57da4c5f65f045ba7 ""
   (generated)
+  "hw_oct_05.log"
   "hw_oct_05.pdf"
   "hw_oct_05.out"
-  "hw_oct_05.log"
   "hw_oct_05.aux"
