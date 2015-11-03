@@ -1,0 +1,45 @@
+{
+    "alpha": {
+        "mass_on_wire": 2.0,
+        "pendulum_torsional_spring": 2.0,
+        "duffings_oscillator": 1.0
+    },
+    "beta": {
+        "mass_on_wire": 2.0,
+        "pendulum_torsional_spring": 1.0,
+        "duffings_oscillator": 1.0
+    },
+    "initial_conditions": {
+        "mass_on_wire": {
+            "linear": {
+                "position": [-0.6, 0.6],
+                "velocity": [-0.6, 0.6]
+            },
+            "nonlinear": {
+                "position": [-0.6, 0.6],
+                "velocity": [-0.6, 0.6]
+            }
+        },
+        "pendulum_torsional_spring": {
+            "linear": {
+                "position": [-0.6, 0.6],
+                "velocity": [-0.6, 0.6]
+            },
+            "nonlinear": {
+                "position": [-0.6, 0.6],
+                "velocity": [-0.6, 0.6]
+            }
+        },
+        "duffings_oscillator": {
+            "linear": {
+                "position": [-0.6, 0.6],
+                "velocity": [-0.6, 0.6]
+            },
+            "nonlinear": {
+                "position": [0.4, 1.6],
+                "velocity": [-0.6, 0.6]
+            }
+        }
+    },
+    "final_time": 100
+}
