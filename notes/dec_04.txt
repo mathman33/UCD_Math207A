@@ -1,0 +1,9 @@
+responsible for:
+    maps
+        find fixed points
+        determine stability
+    1D maps
+        cobwebbing
+        bifurcation plots
+        orbit diagrams - interpret an orbit diagram
+        
